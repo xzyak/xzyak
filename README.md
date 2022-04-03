@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xzyak
-- 👀 I’m interested in Game Programming / Python
+- 👀 I’m interested in Game Programming / Web Developing / Discord
 - 🌱 I’m currently learning C/C++
 
 <!---
